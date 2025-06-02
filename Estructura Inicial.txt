@@ -1,0 +1,6 @@
+backend/
+├── server.js          # Punto de entrada
+├── models/            # Modelos de MongoDB (Producto, Usuario)
+├── routes/            # Rutas de la API
+├── controllers/       # Lógica de cada ruta
+└── .env               # Variables de entorno (MONGO_URI, JWT_SECRET)
